@@ -1,4 +1,4 @@
-import "./Loading.scss";
+import "./loading.scss";
 
 const Loading = () => {
   return (
